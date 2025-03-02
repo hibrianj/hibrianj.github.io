@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on My New Hugo Site</title>
+    <title>Documentation on Blog test</title>
     <link>https://hibrian.com/docs/</link>
-    <description>Recent content in Documentation on My New Hugo Site</description>
+    <description>Recent content in Documentation on Blog test</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hibrian.com/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
       <link>https://hibrian.com/docs/getting-started/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://hibrian.com/docs/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to the Roadster theme documentation. This quick start guide covers Roadster theme installation and minimal configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Customization</title>
       <link>https://hibrian.com/docs/customization/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://hibrian.com/docs/customization/</guid>
-      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Customization page describes common Roadster configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frequently asked questions (FAQ)</title>
